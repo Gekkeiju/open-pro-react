@@ -21,6 +21,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:gekkeiju/gekkeiju.github.io.git main
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:Gekkeiju/react-test.git main:gh-pages
+git push -f git@github.com:Gekkeiju/open-pro-react.git main:gh-pages
 
 cd -
