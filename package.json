@@ -1,5 +1,6 @@
 {
   "name": "open-pro-react",
+  "homepage": "https://gekkeiju.github.io/open-pro-react/",
   "version": "0.1.0",
   "scripts": {
     "predeploy": "npm run build",
