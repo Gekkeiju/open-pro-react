@@ -31,13 +31,13 @@ function Footer() {
                 <h6 className="text-yellow-700 font-medium mb-1">Stuff</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Something</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Something</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Another thing</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Another thing</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">More Things</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">More Things</Link>
                   </li>
                 </ul>
               </div>
@@ -47,19 +47,19 @@ function Footer() {
                 <h6 className="text-yellow-700 font-medium mb-1">Resources</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Nostrud exercitation</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Nostrud exercitation</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Visual mockups</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Visual mockups</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Nostrud exercitation</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Nostrud exercitation</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Visual mockups</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Visual mockups</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Nostrud exercitation</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Nostrud exercitation</Link>
                   </li>
                 </ul>
               </div>
@@ -69,19 +69,19 @@ function Footer() {
                 <h6 className="text-yellow-700 font-medium mb-1">Company</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Labore et dolore</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Labore et dolore</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Labore et dolore</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Labore et dolore</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-700 hover:text-gray-400 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
+                    <Link to="#" className="text-gray-700 hover:text-gray-500 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
                   </li>
                 </ul>
               </div>

@@ -33,8 +33,8 @@ function FeaturesHome() {
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">Lighting fast workflow</div>
                   <h3 className="h3 mb-3">Say hello to research data</h3>
-                  <p className="text-xl text-gray-400 mb-4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>
-                  <ul className="flex flex-wrap text-lg text-gray-400 -mx-2 -my-1">
+                  <p className="text-xl text-gray-500 mb-4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>
+                  <ul className="flex flex-wrap text-lg text-gray-500 -mx-2 -my-1">
                     <li className="flex items-center mx-2 my-1">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
@@ -69,7 +69,7 @@ function FeaturesHome() {
                   <div className="flex items-start mt-8">
                     <img className="rounded-full shrink-0 mr-4" src={FeatAvatar} width="40" height="40" alt="Features avatar" />
                     <div>
-                      <blockquote className="text-gray-400 italic mb-3">"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing".</blockquote>
+                      <blockquote className="text-gray-500 italic mb-3">"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing".</blockquote>
                       <div className="text-gray-700 font-medium">
                         <cite className="text-gray-200 not-italic">— Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
                       </div>

@@ -24,7 +24,7 @@ function BlogSingle() {
                 {/* Title and excerpt */}
                 <div className="text-center md:text-left">
                   <h1 className="h1 mb-4" data-aos="fade-up">Designing a functional workflow at home.</h1>
-                  <p className="text-xl text-gray-400" data-aos="fade-up" data-aos-delay="200">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                  <p className="text-xl text-gray-500" data-aos="fade-up" data-aos-delay="200">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
                 </div>
                 {/* Article meta */}
                 <div className="md:flex md:items-center md:justify-between mt-3">
@@ -59,7 +59,7 @@ function BlogSingle() {
               </figure>
 
               {/* Article content */}
-              <div className="text-lg text-gray-400">
+              <div className="text-lg text-gray-500">
                 <p className="mb-8">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum. Neque sodales ut etiam sit amet. <Link to="#" className="text-gray-200 underline hover:no-underline">Ligula ullamcorper</Link> malesuada proin libero nunc consequat interdum varius. Quam pellentesque nec nam aliquam sem <strong className="font-medium text-gray-200">et tortor consequat</strong>. Pellentesque adipiscing commodo elit at imperdiet. Semper auctor neque vitae tempus quam pellentesque nec. Amet dictum sit amet justo donec enim diam. <strong className="font-medium text-gray-200">Varius sit amet mattis vulputate enim</strong> nulla aliquet porttitor. Odio pellentesque diam volutpat commodo sed. Elit sed vulputate mi sit amet mauris commodo quis imperdiet.
                         </p>
@@ -110,7 +110,7 @@ function BlogSingle() {
               {/* Article footer */}
               <footer>
                 <div className="md:flex md:items-center md:justify-between text-center md:text-left">
-                  <div className="text-lg text-gray-400 italic">Originally published at <Link to="https://cruip.com/" className="text-gray-200">https://cruip.com/</Link>.</div>
+                  <div className="text-lg text-gray-500 italic">Originally published at <Link to="https://cruip.com/" className="text-gray-200">https://cruip.com/</Link>.</div>
                   <ul className="inline-flex mt-4 md:ml-4 md:mb-0">
                     <li>
                       <Link to="#" className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out">
@@ -172,7 +172,7 @@ function BlogSingle() {
                       <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                     </h3>
                   </header>
-                  <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                   <footer className="flex items-center mt-4">
                     <Link to="#">
                       <img className="rounded-full shrink-0 mr-4" src={NewsAuthor05} width="40" height="40" alt="Author 05" />
@@ -204,7 +204,7 @@ function BlogSingle() {
                       <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                     </h3>
                   </header>
-                  <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                   <footer className="flex items-center mt-4">
                     <Link to="#">
                       <img className="rounded-full shrink-0 mr-4" src={NewsAuthor03} width="40" height="40" alt="Author 03" />
@@ -239,7 +239,7 @@ function BlogSingle() {
                       <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                     </h3>
                   </header>
-                  <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                   <footer className="flex items-center mt-4">
                     <Link to="#">
                       <img className="rounded-full shrink-0 mr-4" src={NewsAuthor06} width="40" height="40" alt="Author 06" />

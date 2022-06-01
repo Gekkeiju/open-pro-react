@@ -9,7 +9,7 @@ function Stats() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h2 mb-4">Integrated workflow designed for product teams</h1>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+            <p className="text-xl text-gray-500">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
                 deserunt mollit laborum — semper quis lectus nulla.</p>
           </div>
 
@@ -17,17 +17,17 @@ function Stats() {
             {/* 1st item */}
             <div className="py-6 md:py-0 md:px-8">
               <div className="text-4xl font-bold leading-tight tracking-tighter text-purple-600 mb-2" data-aos="fade-up">179K</div>
-              <div className="text-lg text-gray-400" data-aos="fade-up" data-aos-delay="200">Lorem ipsum is placeholder text commonly used.</div>
+              <div className="text-lg text-gray-500" data-aos="fade-up" data-aos-delay="200">Lorem ipsum is placeholder text commonly used.</div>
             </div>
             {/* 2nd item */}
             <div className="py-6 md:py-0 md:px-8">
               <div className="text-4xl font-bold leading-tight tracking-tighter text-purple-600 mb-2" data-aos="fade-up">147%</div>
-              <div className="text-lg text-gray-400" data-aos="fade-up" data-aos-delay="200">Lorem ipsum is placeholder text commonly used.</div>
+              <div className="text-lg text-gray-500" data-aos="fade-up" data-aos-delay="200">Lorem ipsum is placeholder text commonly used.</div>
             </div>
             {/* 3rd item */}
             <div className="py-6 md:py-0 md:px-8">
               <div className="text-4xl font-bold leading-tight tracking-tighter text-purple-600 mb-2" data-aos="fade-up">$97K</div>
-              <div className="text-lg text-gray-400" data-aos="fade-up" data-aos-delay="200">Lorem ipsum is placeholder text commonly used.</div>
+              <div className="text-lg text-gray-500" data-aos="fade-up" data-aos-delay="200">Lorem ipsum is placeholder text commonly used.</div>
             </div>
           </div>
         </div>

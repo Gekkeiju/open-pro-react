@@ -34,36 +34,36 @@ function Help() {
                 <div className={page !== 1 ? 'hidden' : undefined}>
                   <div className="mb-8">
                     <h2 className="h2 mb-4">FAQ’s – Frequently Asked Questions</h2>
-                    <p className="text-gray-400">Last updated - <span className="text-purple-600">June 30, 2020</span></p>
+                    <p className="text-gray-500">Last updated - <span className="text-purple-600">June 30, 2020</span></p>
                   </div>
                   <ul className="-my-4">
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">How can I use Open PRO without registration?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Can I import my sitemap to Open PRO?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">How can I switch my subscription between essential, and premium plans?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Can I cancel my subscription at any time?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Is there an additional discount when paid annually?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">What happens if I don’t renew my license after one year?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">What kind of payment methods do you provide?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                   </ul>
                 </div>
@@ -72,36 +72,36 @@ function Help() {
                 <div className={page !== 2 ? 'hidden' : undefined}>
                   <div className="mb-8">
                     <h2 className="h2 mb-4">What is Open PRO</h2>
-                    <p className="text-gray-400">Last updated - <span className="text-purple-600">June 30, 2020</span></p>
+                    <p className="text-gray-500">Last updated - <span className="text-purple-600">June 30, 2020</span></p>
                   </div>
                   <ul className="-my-4">
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">How can I use Open PRO without registration?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Can I import my sitemap to Open PRO?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">How can I switch my subscription between essential, and premium plans?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Can I cancel my subscription at any time?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Is there an additional discount when paid annually?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">What happens if I don’t renew my license after one year?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">What kind of payment methods do you provide?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                   </ul>
                 </div>
@@ -110,36 +110,36 @@ function Help() {
                 <div className={page !== 3 ? 'hidden' : undefined}>
                   <div className="mb-8">
                     <h2 className="h2 mb-4">Open PRO plan’s features</h2>
-                    <p className="text-gray-400">Last updated - <span className="text-purple-600">June 30, 2020</span></p>
+                    <p className="text-gray-500">Last updated - <span className="text-purple-600">June 30, 2020</span></p>
                   </div>
                   <ul className="-my-4">
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">How can I use Open PRO without registration?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Can I import my sitemap to Open PRO?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">How can I switch my subscription between essential, and premium plans?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Can I cancel my subscription at any time?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Is there an additional discount when paid annually?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">What happens if I don’t renew my license after one year?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">What kind of payment methods do you provide?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                   </ul>
                 </div>
@@ -148,36 +148,36 @@ function Help() {
                 <div className={page !== 4 ? 'hidden' : undefined}>
                   <div className="mb-8">
                     <h2 className="h2 mb-4">Get started</h2>
-                    <p className="text-gray-400">Last updated - <span className="text-purple-600">June 30, 2020</span></p>
+                    <p className="text-gray-500">Last updated - <span className="text-purple-600">June 30, 2020</span></p>
                   </div>
                   <ul className="-my-4">
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">How can I use Open PRO without registration?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Can I import my sitemap to Open PRO?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">How can I switch my subscription between essential, and premium plans?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Can I cancel my subscription at any time?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Is there an additional discount when paid annually?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">What happens if I don’t renew my license after one year?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">What kind of payment methods do you provide?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                   </ul>
                 </div>
@@ -186,36 +186,36 @@ function Help() {
                 <div className={page !== 5 ? 'hidden' : undefined}>
                   <div className="mb-8">
                     <h2 className="h2 mb-4">Payments FAQ’s</h2>
-                    <p className="text-gray-400">Last updated - <span className="text-purple-600">June 30, 2020</span></p>
+                    <p className="text-gray-500">Last updated - <span className="text-purple-600">June 30, 2020</span></p>
                   </div>
                   <ul className="-my-4">
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">How can I use Open PRO without registration?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Can I import my sitemap to Open PRO?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">How can I switch my subscription between essential, and premium plans?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Can I cancel my subscription at any time?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">Is there an additional discount when paid annually?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">What happens if I don’t renew my license after one year?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                     <li className="py-4">
                       <h4 className="text-xl font-medium mb-2">What kind of payment methods do you provide?</h4>
-                      <p className="text-lg text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+                      <p className="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
                     </li>
                   </ul>
                 </div>
@@ -229,7 +229,7 @@ function Help() {
                   <ul>
                     <li className="py-2 border-b border-gray-800">
                       <a
-                        className={`flex items-center px-3 group text-gray-400 hover:text-purple-600 transition duration-150 ease-in-out ${page === 1 && 'text-purple-600'}`}
+                        className={`flex items-center px-3 group text-gray-500 hover:text-purple-600 transition duration-150 ease-in-out ${page === 1 && 'text-purple-600'}`}
                         href="#0"
                         onClick={(e) => { e.preventDefault(); setPage(1); }}
                       >
@@ -241,7 +241,7 @@ function Help() {
                     </li>
                     <li className="py-2 border-b border-gray-800">
                       <a
-                        className={`flex items-center px-3 group text-gray-400 hover:text-purple-600 transition duration-150 ease-in-out ${page === 2 && 'text-purple-600'}`}
+                        className={`flex items-center px-3 group text-gray-500 hover:text-purple-600 transition duration-150 ease-in-out ${page === 2 && 'text-purple-600'}`}
                         href="#0"
                         onClick={(e) => { e.preventDefault(); setPage(2); }}
                       >
@@ -253,7 +253,7 @@ function Help() {
                     </li>
                     <li className="py-2 border-b border-gray-800">
                       <a
-                        className={`flex items-center px-3 group text-gray-400 hover:text-purple-600 transition duration-150 ease-in-out ${page === 3 && 'text-purple-600'}`}
+                        className={`flex items-center px-3 group text-gray-500 hover:text-purple-600 transition duration-150 ease-in-out ${page === 3 && 'text-purple-600'}`}
                         href="#0"
                         onClick={(e) => { e.preventDefault(); setPage(3); }}
                       >
@@ -265,7 +265,7 @@ function Help() {
                     </li>
                     <li className="py-2 border-b border-gray-800">
                       <a
-                        className={`flex items-center px-3 group text-gray-400 hover:text-purple-600 transition duration-150 ease-in-out ${page === 4 && 'text-purple-600'}`}
+                        className={`flex items-center px-3 group text-gray-500 hover:text-purple-600 transition duration-150 ease-in-out ${page === 4 && 'text-purple-600'}`}
                         href="#0"
                         onClick={(e) => { e.preventDefault(); setPage(4); }}
                       >
@@ -277,7 +277,7 @@ function Help() {
                     </li>
                     <li className="py-2 border-b border-gray-800">
                       <a
-                        className={`flex items-center px-3 group text-gray-400 hover:text-purple-600 transition duration-150 ease-in-out ${page === 5 && 'text-purple-600'}`}
+                        className={`flex items-center px-3 group text-gray-500 hover:text-purple-600 transition duration-150 ease-in-out ${page === 5 && 'text-purple-600'}`}
                         href="#0"
                         onClick={(e) => { e.preventDefault(); setPage(5); }}
                       >

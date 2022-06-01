@@ -45,7 +45,7 @@ function SignIn() {
                 </form>
                 <div className="flex items-center my-6">
                   <div className="border-t border-gray-700 border-dotted grow mr-3" aria-hidden="true"></div>
-                  <div className="text-gray-400">Or, sign in with your email</div>
+                  <div className="text-gray-500">Or, sign in with your email</div>
                   <div className="border-t border-gray-700 border-dotted grow ml-3" aria-hidden="true"></div>
                 </div>
                 <form>
@@ -66,7 +66,7 @@ function SignIn() {
                       <div className="flex justify-between">
                         <label className="flex items-center">
                           <input type="checkbox" className="form-checkbox" />
-                          <span className="text-gray-400 ml-2">Keep me signed in</span>
+                          <span className="text-gray-500 ml-2">Keep me signed in</span>
                         </label>
                         <Link to="/reset-password" className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out">Forgot Password?</Link>
                       </div>
@@ -78,7 +78,7 @@ function SignIn() {
                     </div>
                   </div>
                 </form>
-                <div className="text-gray-400 text-center mt-6">
+                <div className="text-gray-500 text-center mt-6">
                   Don’t you have an account? <Link to="/signup" className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out">Sign up</Link>
                 </div>
               </div>

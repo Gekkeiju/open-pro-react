@@ -13,7 +13,7 @@ function CaseStudies() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Integrated workflow designed for product teams</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+            <p className="text-xl text-gray-500">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
                 deserunt mollit laborum — semper quis lectus nulla.</p>
           </div>
 
@@ -32,7 +32,7 @@ function CaseStudies() {
                 <h3 className="h4 mb-2">
                   <a className="hover:text-gray-100 transition duration-150 ease-in-out" href="#0">How to build anything</a>
                 </h3>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
                 <div>
                   <a className="btn-sm text-white bg-purple-600 hover:bg-purple-700 mt-6" href="#0">
                     <span className="text-sm">Learn more</span>
@@ -56,7 +56,7 @@ function CaseStudies() {
                 <h3 className="h4 mb-2">
                   <a className="hover:text-gray-100 transition duration-150 ease-in-out" href="#0">How to build anything</a>
                 </h3>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
                 <div>
                   <a className="btn-sm text-white bg-purple-600 hover:bg-purple-700 mt-6" href="#0">
                     <span className="text-sm">Learn more</span>
@@ -80,7 +80,7 @@ function CaseStudies() {
                 <h3 className="h4 mb-2">
                   <a className="hover:text-gray-100 transition duration-150 ease-in-out" href="#0">How to build anything</a>
                 </h3>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
                 <div>
                   <a className="btn-sm text-white bg-purple-600 hover:bg-purple-700 mt-6" href="#0">
                     <span className="text-sm">Learn more</span>

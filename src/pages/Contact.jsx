@@ -27,7 +27,7 @@ function Contact() {
               {/* Page header */}
               <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
                 <h1 className="h1 mb-4" data-aos="fade-up">How can we help you?</h1>
-                <p className="text-xl text-gray-400" data-aos="fade-up" data-aos-delay="200">We have custom plans to power your business. Tell us your needs, and we’ll contact you shortly.</p>
+                <p className="text-xl text-gray-500" data-aos="fade-up" data-aos-delay="200">We have custom plans to power your business. Tell us your needs, and we’ll contact you shortly.</p>
               </div>
 
               {/* Contact form */}
@@ -75,7 +75,7 @@ function Contact() {
                   <div className="w-full px-3">
                     <label className="flex items-center">
                       <input type="checkbox" className="form-checkbox" />
-                      <span className="text-gray-400 ml-2">I agree to the privacy policy</span>
+                      <span className="text-gray-500 ml-2">I agree to the privacy policy</span>
                     </label>
                   </div>
                 </div>

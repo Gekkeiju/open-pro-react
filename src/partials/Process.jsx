@@ -23,8 +23,8 @@ function Process() {
                 <path className="stroke-current text-yellow-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-yellow-50" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2"><span className="text-gray-400">1</span>. Register</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+              <h4 className="h4 mb-2"><span className="text-gray-500">1</span>. Register</h4>
+              <p className="text-lg text-gray-500 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
             </div>
 
             {/* 2nd item */}
@@ -37,8 +37,8 @@ function Process() {
                   <path className="stroke-current text-yellow-50" strokeWidth="2" strokeLinecap="square" d="M36 32l-4-3-4 3V22h8z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2"><span className="text-gray-400">2</span>. Review</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+              <h4 className="h4 mb-2"><span className="text-gray-500">2</span>. Review</h4>
+              <p className="text-lg text-gray-500 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
             </div>
 
             {/* 3rd item */}
@@ -48,8 +48,8 @@ function Process() {
                 <path className="stroke-current text-yellow-100" strokeWidth="2" strokeLinecap="square" d="M21 35l4 4 12-15" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-yellow-50" d="M42 29h-3M42 34h-7M42 39H31" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2"><span className="text-gray-400">3</span>. Assess</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+              <h4 className="h4 mb-2"><span className="text-gray-500">3</span>. Assess</h4>
+              <p className="text-lg text-gray-500 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
             </div>
 
           </div>

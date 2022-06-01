@@ -54,7 +54,7 @@ function BlogList() {
                     <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">Designing a functional workflow at home.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-400 grow">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                <p className="text-lg text-gray-500 grow">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
                 <footer className="flex items-center mt-4">
                   <Link to="#">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor04} width="40" height="40" alt="Author 04" />
@@ -100,7 +100,7 @@ function BlogList() {
                     <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <Link to="#">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor01} width="40" height="40" alt="Author 01" />
@@ -135,7 +135,7 @@ function BlogList() {
                     <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <Link to="#">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor02} width="40" height="40" alt="Author 02" />
@@ -170,7 +170,7 @@ function BlogList() {
                     <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <Link to="#">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor03} width="40" height="40" alt="Author 03" />
@@ -205,7 +205,7 @@ function BlogList() {
                     <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <Link to="#">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor05} width="40" height="40" alt="Author 05" />
@@ -237,7 +237,7 @@ function BlogList() {
                     <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <Link to="#">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor03} width="40" height="40" alt="Author 03" />
@@ -272,7 +272,7 @@ function BlogList() {
                     <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <Link to="#">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor06} width="40" height="40" alt="Author 06" />
@@ -307,7 +307,7 @@ function BlogList() {
                     <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <Link to="#">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor02} width="40" height="40" alt="Author 02" />
@@ -342,7 +342,7 @@ function BlogList() {
                     <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <Link to="#">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor01} width="40" height="40" alt="Author 01" />
@@ -374,7 +374,7 @@ function BlogList() {
                     <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">The quick brown fox jumped over the lazy dog.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <Link to="#">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor02} width="40" height="40" alt="Author 02" />
