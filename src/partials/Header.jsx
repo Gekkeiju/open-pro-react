@@ -51,24 +51,24 @@ function Header() {
             {/* Desktop menu links */}
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
-                <Link to="/" className="text-lg text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">
+                <Link to="/" className="text-lg underline underline-offset-1 text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">
                   Home
                 </Link>
               </li>
               <li>
-                <Link to="/pricing" className="text-lg text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">Pricing</Link>
+                <Link to="/pricing" className="text-lg underline underline-offset-1 text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">Pricing</Link>
               </li>
               <li>
-                <Link to="/blog" className="text-lg text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">Blog</Link>
+                <Link to="/blog" className="text-lg underline underline-offset-1 text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">Blog</Link>
               </li>
               <li>
-                <Link to="/about" className="text-lg text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">About us</Link>
+                <Link to="/about" className="text-lg underline underline-offset-1 text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">About us</Link>
               </li>
               <li>
-                <Link to="/contact" className="text-lg text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">Contact us</Link>
+                <Link to="/contact" className="text-lg underline underline-offset-1 text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">Contact us</Link>
               </li>
               <li>
-                <Link to="/help" className="text-lg text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">FAQ</Link>
+                <Link to="/help" className="text-lg underline underline-offset-1 text-purple-900 hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">FAQ</Link>
               </li>
               
             </ul>
@@ -99,34 +99,27 @@ function Header() {
             </button>
 
             {/*Mobile navigation */}
-            <nav id="mobile-nav" ref={mobileNav} className="absolute top-full z-20 left-0 w-full px-4 sm:px-6 overflow-hidden transition-all duration-300 ease-in-out" style={mobileNavOpen ? { maxHeight: mobileNav.current.scrollHeight, opacity: 1 } : { maxHeight: 0, opacity: .8 } }>
+            <nav id="mobile-nav" ref={mobileNav} className="bg-purple-900 absolute top-full z-20 left-0 w-full px-4 sm:px-6 overflow-hidden transition-all duration-300 ease-in-out" style={mobileNavOpen ? { maxHeight: mobileNav.current.scrollHeight, opacity: 1 } : { maxHeight: 0, opacity: .8 } }>
               <ul className="bg-black-800 px-4 py-2">
                 <li>
-                  <Link to="/features" className="flex text-purple-900 hover:text-yellow-600 py-2">Features</Link>
+                  <Link to="/features" className="flex text-white hover:text-yellow-600 py-2">Features</Link>
                 </li>
                 <li>
-                  <Link to="/pricing" className="flex text-purple-900 hover:text-yellow-600 py-2">Pricing</Link>
+                  <Link to="/pricing" className="flex text-white hover:text-yellow-600 py-2">Pricing</Link>
                 </li>
                 <li>
-                  <Link to="/blog" className="flex text-purple-900 hover:text-yellow-600 py-2">Blog</Link>
+                  <Link to="/blog" className="flex text-white hover:text-yellow-600 py-2">Blog</Link>
                 </li>
                 <li>
-                  <Link to="/about" className="flex text-purple-900 hover:text-yellow-600 py-2">About us</Link>
+                  <Link to="/about" className="flex text-white hover:text-yellow-600 py-2">About us</Link>
                 </li>
-                <li className="py-2 my-2 border-t border-b border-black-700">
-                  <span className="flex text-purple-900 py-2">Support</span>
-                  <ul className="pl-4">
-                    <li>
-                      <Link to="/contact" className="text-sm flex font-medium text-black-400 hover:text-yellow-600 py-2">Contact us</Link>
-                    </li>
-                    <li>
-                      <Link to="/help" className="text-sm flex font-medium text-black-400 hover:text-yellow-600 py-2">Help center</Link>
-                    </li>
-                    <li>
-                      <Link to="/404" className="text-sm flex font-medium text-black-400 hover:text-yellow-600 py-2">404</Link>
-                    </li>
-                  </ul>
+                <li>
+                  <Link to="/contact" className="text-sm border-t flex font-medium text-white hover:text-yellow-600 py-2">Contact us</Link>
                 </li>
+                <li>
+                  <Link to="/help" className="text-sm border-b flex font-medium text-white hover:text-yellow-600 py-2">Help center</Link>
+                </li>
+                
                 <li>
                   <Link to="/signin" className="flex font-medium w-full text-purple-600 hover:text-yellow-600 py-2 justify-center">Sign in</Link>
                 </li>
