@@ -12,11 +12,11 @@ function News() {
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
-        <div className="py-12 md:py-20 border-t border-gray-800">
+        <div className="pt-10 pb-12 md:pt-16 md:pb-20">
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2" data-aos="fade-up">Refreshing news for developers and designers</h2>
+            <h2 className="h2" data-aos="fade-up">Review Center Topics </h2>
           </div>
 
           {/* Articles list */}
@@ -42,7 +42,7 @@ function News() {
                     </ul>
                   </div>
                   <h3 className="h4 mb-2">
-                    <Link className="hover:text-gray-100 transition duration-150 ease-in-out" to="/blog-post">The quick brown fox jumped over the lazy dog.</Link>
+                    <Link className="hover:text-gray-100 transition duration-150 ease-in-out" to="/blog-post">Cardiovascular System.</Link>
                   </h3>
                 </header>
                 <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -77,7 +77,7 @@ function News() {
                     </ul>
                   </div>
                   <h3 className="h4 mb-2">
-                    <Link className="hover:text-gray-100 transition duration-150 ease-in-out" to="/blog-post">The quick brown fox jumped over the lazy dog.</Link>
+                    <Link className="hover:text-gray-100 transition duration-150 ease-in-out" to="/blog-post">Pulmonary System.</Link>
                   </h3>
                 </header>
                 <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -112,7 +112,7 @@ function News() {
                     </ul>
                   </div>
                   <h3 className="h4 mb-2">
-                    <Link className="hover:text-gray-100 transition duration-150 ease-in-out" to="/blog-post">The quick brown fox jumped over the lazy dog.</Link>
+                    <Link className="hover:text-gray-100 transition duration-150 ease-in-out" to="/blog-post">Cardiopulmonary Conditions and Differential Diagnosis.</Link>
                   </h3>
                 </header>
                 <p className="text-lg text-gray-400 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>

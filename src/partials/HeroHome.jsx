@@ -25,15 +25,15 @@ function HeroHome() {
         </div>
 
         {/* Hero content */}
-        <div className="relative pt-32 pb-10 md:pt-32 md:pb-16">
+        <div className="relative pt-32 pb-10 md:pt-24 md:pb-16">
 
           {/* Section header */}
-          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
+          <div className="max-w-3xl mx-auto text-center pb-10 md:pb-10">
             <svg className="mx-auto w-16 h-16 fill-current text-yellow-400" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
                 <path d="M31.952 14.751a260.51 260.51 0 00-4.359-4.407C23.932 6.734 20.16 3.182 16.171 0c1.634.017 3.21.28 4.692.751 3.487 3.114 6.846 6.398 10.163 9.737.493 1.346.811 2.776.926 4.262zm-1.388 7.883c-2.496-2.597-5.051-5.12-7.737-7.471-3.706-3.246-10.693-9.81-15.736-7.418-4.552 2.158-4.717 10.543-4.96 16.238A15.926 15.926 0 010 16C0 9.799 3.528 4.421 8.686 1.766c1.82.593 3.593 1.675 5.038 2.587 6.569 4.14 12.29 9.71 17.792 15.57-.237.94-.557 1.846-.952 2.711zm-4.505 5.81a56.161 56.161 0 00-1.007-.823c-2.574-2.054-6.087-4.805-9.394-4.044-3.022.695-4.264 4.267-4.97 7.52a15.945 15.945 0 01-3.665-1.85c.366-3.242.89-6.675 2.405-9.364 2.315-4.107 6.287-3.072 9.613-1.132 3.36 1.96 6.417 4.572 9.313 7.417a16.097 16.097 0 01-2.295 2.275z" />
             </svg>
             <h1 className="h1 mb-4" data-aos="fade-up">Optimus Review Center</h1>
-            <p className="text-xl text-gray-500 mb-8 outline-2 outline-black" data-aos="fade-up" data-aos-delay="200">Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.</p>
+            <p className="text-xl text-gray-500 mb-6 outline-2 outline-black" data-aos="fade-up" data-aos-delay="200">Arabica Acerbic Affogato Aftertaste Aged Americano, And Aroma strong cultivar, lungo frappuccino cup cortado.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
                 <a className="btn text-black hover:text-gray-50 bg-yellow-400 hover:bg-yellow-600 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Start free trial</a>

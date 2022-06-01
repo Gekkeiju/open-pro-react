@@ -51,8 +51,8 @@ function Header() {
             {/* Desktop menu links */}
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
-                <Link to="/features" className="text-lg text-black-300 hover:text-gray-400 px-4 py-2 flex items-center transition duration-150 ease-in-out">
-                  Features
+                <Link to="/" className="text-lg text-black-300 hover:text-gray-400 px-4 py-2 flex items-center transition duration-150 ease-in-out">
+                  Home
                 </Link>
               </li>
               <li>
