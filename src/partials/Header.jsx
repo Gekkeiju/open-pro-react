@@ -121,10 +121,10 @@ function Header() {
                 </li>
                 
                 <li>
-                  <Link to="/signin" className="flex font-medium w-full text-purple-600 hover:text-yellow-600 py-2 justify-center">Sign in</Link>
+                  <Link to="/signin" className="flex font-medium w-full text-yellow-300 hover:text-yellow-600 py-2 justify-center">Sign in</Link>
                 </li>
                 <li>
-                  <Link to="/signup" className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-purple-600 hover:bg-purple-700 transition duration-150 ease-in-out">Sign up</Link>
+                  <Link to="/signup" className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-purple-900 bg-yellow-300 hover:bg-purple-700 transition duration-150 ease-in-out">Sign up</Link>
                 </li>
               </ul>
             </nav>
