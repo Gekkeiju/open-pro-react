@@ -36,7 +36,7 @@ function PricingTables() {
             {/* Pricing toggle */}
             <div className="flex justify-center mb-16" data-aos="fade-up" data-aos-delay="400">
               <div className="inline-flex items-center">
-                <div className="text-gray-500 font-medium mr-3">Billed Monthly</div>
+                <div className="text-black font-medium mr-3">Billed Monthly</div>
                 <div className="form-switch">
                   <input type="checkbox" name="pricing-toggle" id="pricing-toggle" className="sr-only" checked={value} onChange={() => setValue(!value)} />
                   <label className="bg-gray-600" htmlFor="pricing-toggle">
@@ -44,25 +44,25 @@ function PricingTables() {
                     <span className="sr-only">Enable to see yearly prices</span>
                   </label>
                 </div>
-                <div className="text-gray-500 font-medium ml-3">Billed Annually</div>
+                <div className="text-black font-medium ml-3">Billed Annually</div>
               </div>
             </div>
 
             <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-3 lg:gap-6 items-start lg:max-w-none">
 
               {/* Pricing table 1 */}
-              <div className="relative flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up" data-aos-delay="700">
+              <div className="relative flex flex-col h-full p-6 bg-purple-900" data-aos="fade-up" data-aos-delay="700">
                 <div className="mb-4 pb-4 border-b border-gray-700">
-                  <div className="h4 text-purple-600 mb-1">Essential</div>
+                  <div className="h4 text-yellow-300 mb-1">Essential</div>
                   <div className="inline-flex items-baseline mb-2">
-                    <span className="text-2xl md:text-3xl font-medium text-gray-500">{priceOutput.plan1[value][0]}</span>
-                    <span className="h2">{priceOutput.plan1[value][1]}</span>
-                    <span className="font-medium text-gray-500">{priceOutput.plan1[value][2]}</span>
+                    <span className="text-2xl md:text-3xl font-medium text-gray-400">{priceOutput.plan1[value][0]}</span>
+                    <span className="h2 text-white">{priceOutput.plan1[value][1]}</span>
+                    <span className="font-medium text-gray-400">{priceOutput.plan1[value][2]}</span>
                   </div>
-                  <div className="text-gray-500">Better insights for growing businesses that want more customers.</div>
+                  <div className="text-gray-400">Better insights for growing businesses that want more customers.</div>
                 </div>
-                <div className="font-medium mb-3">Features include:</div>
-                <ul className="text-gray-500 -mb-3 grow">
+                <div className="font-medium mb-3 text-gray-400">Features include:</div>
+                <ul className="text-gray-400 -mb-3 grow">
                   <li className="flex items-center mb-3">
                     <svg className="w-3 h-3 fill-current text-green-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                       <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
@@ -89,26 +89,26 @@ function PricingTables() {
                   </li>
                 </ul>
                 <div className="border border-gray-700 p-3 mt-6">
-                  <a className="btn-sm text-white bg-purple-600 hover:bg-purple-700 w-full" href="#0">Start free trial</a>
+                  <a className="btn-sm text-purple-900 bg-yellow-300 hover:bg-yellow-600 w-full" href="#0">Start free trial</a>
                 </div>
               </div>
 
               {/* Pricing table 2 */}
-              <div className="relative flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up" data-aos-delay="600">
+              <div className="relative flex flex-col h-full p-6 bg-purple-900" data-aos="fade-up" data-aos-delay="600">
                 <div className="absolute top-0 right-0 mr-6 -mt-4">
                   <div className="inline-flex text-sm font-semibold py-1 px-3 mt-px text-green-600 bg-green-200 rounded-full">Most Popular</div>
                 </div>
-                <div className="mb-4 pb-4 border-b border-gray-700">
-                  <div className="h4 text-purple-600 mb-1">Premium</div>
+                <div className="mb-4 pb-4 border-b border-gray-100">
+                  <div className="h4 text-yellow-300 mb-1">Premium</div>
                   <div className="inline-flex items-baseline mb-2">
-                    <span className="text-2xl md:text-3xl font-medium text-gray-500">{priceOutput.plan2[value][0]}</span>
-                    <span className="h2">{priceOutput.plan2[value][1]}</span>
-                    <span className="font-medium text-gray-500">{priceOutput.plan2[value][2]}</span>
+                    <span className="text-2xl md:text-3xl font-medium text-gray-400">{priceOutput.plan2[value][0]}</span>
+                    <span className="h2 text-white">{priceOutput.plan2[value][1]}</span>
+                    <span className="font-medium text-gray-400">{priceOutput.plan2[value][2]}</span>
                   </div>
-                  <div className="text-gray-500">Better insights for growing businesses that want more customers.</div>
+                  <div className="text-gray-400">Better insights for growing businesses that want more customers.</div>
                 </div>
-                <div className="font-medium mb-3">All features of Essential plus:</div>
-                <ul className="text-gray-500 -mb-3 grow">
+                <div className="font-medium mb-3 text-gray-400">All features of Essential plus:</div>
+                <ul className="text-gray-400 -mb-3 grow">
                   <li className="flex items-center mb-3">
                     <svg className="w-3 h-3 fill-current text-green-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                       <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
@@ -141,23 +141,23 @@ function PricingTables() {
                   </li>
                 </ul>
                 <div className="border border-gray-700 p-3 mt-6">
-                  <a className="btn-sm text-white bg-purple-600 hover:bg-purple-700 w-full" href="#0">Start free trial</a>
+                  <a className="btn-sm text-purple-900 bg-yellow-300 hover:bg-yellow-600 w-full" href="#0">Start free trial</a>
                 </div>
               </div>
 
               {/* Pricing table 3 */}
-              <div className="relative flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up" data-aos-delay="800">
+              <div className="relative flex flex-col h-full p-6 bg-purple-900" data-aos="fade-up" data-aos-delay="800">
                 <div className="mb-4 pb-4 border-b border-gray-700">
-                  <div className="h4 text-purple-600 mb-1">Advanced</div>
+                  <div className="h4 text-yellow-300 mb-1">Advanced</div>
                   <div className="inline-flex items-baseline mb-2">
-                    <span className="text-2xl md:text-3xl font-medium text-gray-500">{priceOutput.plan3[value][0]}</span>
-                    <span className="h2">{priceOutput.plan3[value][1]}</span>
-                    <span className="font-medium text-gray-500">{priceOutput.plan3[value][2]}</span>
+                    <span className="text-2xl md:text-3xl font-medium text-gray-400">{priceOutput.plan3[value][0]}</span>
+                    <span className="h2 text-white">{priceOutput.plan3[value][1]}</span>
+                    <span className="font-medium text-gray-400">{priceOutput.plan3[value][2]}</span>
                   </div>
-                  <div className="text-gray-500">Better insights for growing businesses that want more customers.</div>
+                  <div className="text-gray-400">Better insights for growing businesses that want more customers.</div>
                 </div>
-                <div className="font-medium mb-3">All features of Essential plus:</div>
-                <ul className="text-gray-500 -mb-3 grow">
+                <div className="font-medium mb-3 text-gray-400">All features of Essential plus:</div>
+                <ul className="text-gray-400 -mb-3 grow">
                   <li className="flex items-center mb-3">
                     <svg className="w-3 h-3 fill-current text-green-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                       <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
@@ -196,7 +196,7 @@ function PricingTables() {
                   </li>
                 </ul>
                 <div className="border border-gray-700 p-3 mt-6">
-                  <a className="btn-sm text-white bg-purple-600 hover:bg-purple-700 w-full" href="#0">Start free trial</a>
+                  <a className="btn-sm text-purple-900 bg-yellow-300 hover:bg-yellow-600 w-full" href="#0">Start free trial</a>
                 </div>
               </div>
 
@@ -206,7 +206,7 @@ function PricingTables() {
             <div className="flex flex-col lg:flex-row justify-between items-center mt-12 lg:mt-6 lg:py-8 lg:border-t lg:border-b lg:border-gray-800">
               <div className="font-medium text-lg text-center lg:text-left mb-4 lg:mb-0">Expecting more than 1000 Active End Users?</div>
               <div>
-                <a className="btn-sm text-white bg-purple-600 hover:bg-purple-700" href="#0">Contact us</a>
+                <a className="btn-sm text-gray-400 bg-purple-900 hover:bg-purple-900" href="#0">Contact us</a>
               </div>
             </div>
 
