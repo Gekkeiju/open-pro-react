@@ -50,6 +50,11 @@ function Header() {
 
             {/* Desktop menu links */}
             <ul className="flex grow justify-end flex-wrap items-center">
+            <li>
+                <Link to="/404" className="text-lg underline underline-offset-1  hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">
+                  MyReview
+                </Link>
+              </li>
               <li>
                 <Link to="/" className="text-lg underline underline-offset-1  hover:text-yellow-600 px-4 py-2 flex items-center transition duration-150 ease-in-out">
                   Home

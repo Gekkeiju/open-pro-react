@@ -27,7 +27,6 @@ function Pricing() {
         <PricingTables />
         <Faqs />
         <Testimonials />
-        <Cta />
 
       </main>
 

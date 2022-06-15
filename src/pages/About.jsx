@@ -32,9 +32,6 @@ function About() {
         <TeamImages />
         <Timeline />
         <Team />
-        <TestimonialsCarousel />
-        <Career />
-        <Clients />
         <Newsletter />
 
       </main>
