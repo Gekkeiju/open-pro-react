@@ -16,7 +16,7 @@ function News() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 text-purple-900" data-aos="fade-up">Review Center Topics </h2>
+            <h2 className="h2" data-aos="fade-up">Review Center Topics </h2>
           </div>
 
           {/* Articles list */}
@@ -45,13 +45,13 @@ function News() {
                     <Link className="hover:text-purple-500 transition duration-150 ease-in-out" to="/blog-post">Cardiovascular System.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-black grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <a href="#0">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor01} width="40" height="40" alt="Author 01" />
                   </a>
                   <div className="font-medium">
-                    <a className="text-black hover:text-purple-500 transition duration-150 ease-in-out" href="#0">Anastasia Dan</a>
+                    <a className="text-purple-900 hover:text-purple-500 transition duration-150 ease-in-out" href="#0">Anastasia Dan</a>
                     <span className="text-gray-700"> - </span>
                     <span className="text-gray-500">Jan 17, 2020</span>
                   </div>
@@ -80,13 +80,13 @@ function News() {
                     <Link className="hover:text-purple-500 transition duration-150 ease-in-out" to="/blog-post">Pulmonary System.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-black grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <a href="#0">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor02} width="40" height="40" alt="Author 02" />
                   </a>
                   <div className="font-medium">
-                    <a className="text-black hover:text-purple-500 transition duration-150 ease-in-out" href="#0">Markus Barker</a>
+                    <a className="text-purple-900 hover:text-purple-500 transition duration-150 ease-in-out" href="#0">Markus Barker</a>
                     <span className="text-gray-700"> - </span>
                     <span className="text-gray-500">Jan 12, 2020</span>
                   </div>
@@ -115,13 +115,13 @@ function News() {
                     <Link className="hover:text-purple-500 transition duration-150 ease-in-out" to="/blog-post">Cardiopulmonary Conditions and Differential Diagnosis.</Link>
                   </h3>
                 </header>
-                <p className="text-lg text-gray-500 grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-lg text-black grow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <footer className="flex items-center mt-4">
                   <a href="#0">
                     <img className="rounded-full shrink-0 mr-4" src={NewsAuthor03} width="40" height="40" alt="Author 03" />
                   </a>
                   <div className="font-medium">
-                    <a className="text-black hover:text-purple-500 transition duration-150 ease-in-out" href="#0">Lisa Crockett</a>
+                    <a className="text-purple-900 hover:text-purple-500 transition duration-150 ease-in-out" href="#0">Lisa Crockett</a>
                     <span className="text-gray-700"> - </span>
                     <span className="text-gray-500">Jan 9, 2020</span>
                   </div>

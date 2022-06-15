@@ -51,9 +51,9 @@ function PricingTables() {
             <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-3 lg:gap-6 items-start lg:max-w-none">
 
               {/* Pricing table 1 */}
-              <div className="relative flex flex-col h-full p-6 bg-purple-900" data-aos="fade-up" data-aos-delay="700">
+              <div className="relative flex flex-col h-full p-6 bg-yellow-300" data-aos="fade-up" data-aos-delay="700">
                 <div className="mb-4 pb-4 border-b border-gray-700">
-                  <div className="h4 text-yellow-300 mb-1">Essential</div>
+                  <div className="h4 mb-1">Essential</div>
                   <div className="inline-flex items-baseline mb-2">
                     <span className="text-2xl md:text-3xl font-medium text-gray-400">{priceOutput.plan1[value][0]}</span>
                     <span className="h2 text-white">{priceOutput.plan1[value][1]}</span>
@@ -89,17 +89,17 @@ function PricingTables() {
                   </li>
                 </ul>
                 <div className="border border-gray-700 p-3 mt-6">
-                  <a className="btn-sm text-purple-900 bg-yellow-300 hover:bg-yellow-600 w-full" href="#0">Start free trial</a>
+                  <a className="btn-sm text-white bg-purple-900 hover:bg-yellow-600 w-full" href="#0">Start free trial</a>
                 </div>
               </div>
 
               {/* Pricing table 2 */}
-              <div className="relative flex flex-col h-full p-6 bg-purple-900" data-aos="fade-up" data-aos-delay="600">
+              <div className="relative flex flex-col h-full p-6 " data-aos="fade-up" data-aos-delay="600">
                 <div className="absolute top-0 right-0 mr-6 -mt-4">
                   <div className="inline-flex text-sm font-semibold py-1 px-3 mt-px text-green-600 bg-green-200 rounded-full">Most Popular</div>
                 </div>
                 <div className="mb-4 pb-4 border-b border-gray-100">
-                  <div className="h4 text-yellow-300 mb-1">Premium</div>
+                  <div className="h4 mb-1">Premium</div>
                   <div className="inline-flex items-baseline mb-2">
                     <span className="text-2xl md:text-3xl font-medium text-gray-400">{priceOutput.plan2[value][0]}</span>
                     <span className="h2 text-white">{priceOutput.plan2[value][1]}</span>
@@ -141,14 +141,14 @@ function PricingTables() {
                   </li>
                 </ul>
                 <div className="border border-gray-700 p-3 mt-6">
-                  <a className="btn-sm text-purple-900 bg-yellow-300 hover:bg-yellow-600 w-full" href="#0">Start free trial</a>
+                  <a className="btn-sm text-white bg-purple-900 hover:bg-yellow-600 w-full" href="#0">Start free trial</a>
                 </div>
               </div>
 
               {/* Pricing table 3 */}
-              <div className="relative flex flex-col h-full p-6 bg-purple-900" data-aos="fade-up" data-aos-delay="800">
+              <div className="relative flex flex-col h-full p-6 " data-aos="fade-up" data-aos-delay="800">
                 <div className="mb-4 pb-4 border-b border-gray-700">
-                  <div className="h4 text-yellow-300 mb-1">Advanced</div>
+                  <div className="h4 mb-1">Advanced</div>
                   <div className="inline-flex items-baseline mb-2">
                     <span className="text-2xl md:text-3xl font-medium text-gray-400">{priceOutput.plan3[value][0]}</span>
                     <span className="h2 text-white">{priceOutput.plan3[value][1]}</span>
@@ -196,7 +196,7 @@ function PricingTables() {
                   </li>
                 </ul>
                 <div className="border border-gray-700 p-3 mt-6">
-                  <a className="btn-sm text-purple-900 bg-yellow-300 hover:bg-yellow-600 w-full" href="#0">Start free trial</a>
+                  <a className="btn-sm text-white bg-purple-900 hover:bg-yellow-600 w-full" href="#0">Start free trial</a>
                 </div>
               </div>
 
@@ -206,7 +206,7 @@ function PricingTables() {
             <div className="flex flex-col lg:flex-row justify-between items-center mt-12 lg:mt-6 lg:py-8 lg:border-t lg:border-b lg:border-gray-800">
               <div className="font-medium text-lg text-center lg:text-left mb-4 lg:mb-0">Expecting more than 1000 Active End Users?</div>
               <div>
-                <a className="btn-sm text-gray-400 bg-purple-900 hover:bg-purple-900" href="#0">Contact us</a>
+                <a className="btn-sm text-gray-400  hover:" href="#0">Contact us</a>
               </div>
             </div>
 
